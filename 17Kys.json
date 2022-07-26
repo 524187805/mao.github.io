@@ -12,10 +12,7 @@
         "更新方式": "2",
         "默认解析":{
             "M3U8解析":"https://jx.m3u8.tv/jiexi/?url=",
-            "虾米解析":"https://jx.xmflv.com/?url=",
-            "夜幕解析":"https://www.yemu.xyz/?url=",
-            "OK解析":"https://okjx.cc/?url=",
-            "ckplayer解析":"https://www.ckplayer.vip/jiexi/?url="
+            "人人迷解析":"https://jx.blbo.cc:4433/?url="
 }
     }
 }
