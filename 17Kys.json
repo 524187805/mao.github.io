@@ -11,21 +11,11 @@
         "文件大小": "13.7M",
         "更新方式": "2",
         "默认解析":{
-            "爱酷解析":"https://json.iku.cool/api/?key=dOXOCpOsBKfYPkOx8Q&url=",
-            "优视解析":"https://www.ysys.asia/api.php?url=",
-            "晓成解析":"https://api.cygc.xyz/analysis/?url=",
-            "看吧解析":"https://jifei.238238.xyz:2087/home/api?type=ys&uid=304749&key=abdklnpwACJPS02467&url=",
-            "555解析":"https://json.555jiexi.com.ytlngy.com/?url=",
-            "聆风解析":"http://json.leafone.cn/home/api?type=ys&uid=1183787&key=deghlmtxzBCDKLTU26&url=",
-            "973解析":"https://openapi.973973.xyz/973/api/api_free.php?url=",
-            "夜空解析":"https://free.bwwed.com:8090/json/?url=",
-            "8700解析":"https://8700.top/api/?key=NwJSeqzrfscUbV5CZh&url=",
-            "飞越解析1":"http://jx.ivips.ml/api/?key=zgrMhOqWks3CeBRxA4&url=",
-            "飞越解析2":"http://jxb.ivips.ml/api/?key=KtMmDdMJePIKiOUs9X&url=",
-            "飞越解析3":"http://124.222.149.233:2082/api/?key=l39wS0FINp2Je9fsiM&url=",
-            "璇玑解析":"https://www.hfyrw.com/json.php?url=",
-            "米奇解析-1K":"http://www.mqjx.cc/home/api?type=ys&uid=45263&key=blmsxACEFIKPQRT167&url=",
-            "阿狸解析-5W":"https://json.zely.cn/api/?key=xNuPSljsC6fcR2yDWB&url="
+            "M3U8解析":"https://jx.m3u8.tv/jiexi/?url=",
+            "虾米解析":"https://jx.xmflv.com/?url=",
+            "夜幕解析":"https://www.yemu.xyz/?url=",
+            "OK解析":"https://okjx.cc/?url=",
+            "ckplayer解析":"https://www.ckplayer.vip/jiexi/?url="
 }
     }
 }
