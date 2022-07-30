@@ -19,6 +19,11 @@
             "飞越解析":"http://jx.ivips.ml/api/?key=zgrMhOqWks3CeBRxA4&url=",
             "米奇解析-1K":"http://www.mqjx.cc/home/api?type=ys&uid=45263&key=blmsxACEFIKPQRT167&url=",
             "阿狸解析-5W":"https://json.zely.cn/api/?key=xNuPSljsC6fcR2yDWB&url="
+},
+        "备用解析":{
+            "人人迷解析":"https://jx.blbo.cc:4433/?url=",
+            "1988解析":"https://vip.198830.com/?url="
+
 }
     }
 }
