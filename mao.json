@@ -2,7 +2,7 @@
 
 {
 // spider
-"spider":"clan://TVBox/zy/zy.jar",
+"spider":"https://524187805.github.io/mao.github.io/mao.json",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL1RWQm94L3R2L2JjLnR4dA=="]}]}],
