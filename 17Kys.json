@@ -7,23 +7,19 @@
         "更新地址": "https://wwi.lanzoup.com/u/lmpei",
         "更新公告": "检查到新版本\n↓请复制下面地址更新↓\n\nhttps://wwi.lanzoup.com/u/lmpei\n\n更新内容：\n添加播放记录\n添加更多片源\n\n有问题联系\n作者：菜妮丝\nQQ、VX：524187805",
         "默认解析":{
-            "璇玑解析":"https://www.hfyrw.com/json.php?url=",
-            "爱酷解析":"https://json.iku.cool/api/?key=dOXOCpOsBKfYPkOx8Q&url=",
             "优视解析":"https://www.ysys.asia/api.php?url=",
             "晓成解析":"https://api.cygc.xyz/analysis/?url=",
             "看吧解析":"https://jiexi.k8zy.top:2087/api/?key=Ti3pPBb0tPiBLKkvVv&url=",
             "555解析":"https://json.555jiexi.com.ytlngy.com/?url=",
-            "973解析":"https://openapi.973973.xyz/973/api/api_free.php?url=",
             "夜空解析":"https://free.bwwed.com:8090/json/?url=",
             "8700解析":"https://8700.top/api/?key=NwJSeqzrfscUbV5CZh&url=",
-            "飞越解析":"http://jx.ivips.ml/api/?key=zgrMhOqWks3CeBRxA4&url=",
             "米奇解析-1K":"http://www.mqjx.cc/home/api?type=ys&uid=45263&key=blmsxACEFIKPQRT167&url=",
             "阿狸解析-5W":"https://json.zely.cn/api/?key=xNuPSljsC6fcR2yDWB&url="
 },
         "备用解析":{
             "人人迷解析":"https://jx.blbo.cc:4433/?url=",
-            "1988解析":"https://vip.198830.com/?url="
-
+            "1988解析":"https://vip.198830.com/?url=",
+            "1717云解析":"https://www.1717yun.com/1717yun/?url="
 }
     }
 }
