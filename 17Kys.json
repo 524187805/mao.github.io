@@ -10,7 +10,17 @@
             "小易解析":"https://json.xyjx.com/?url="
 },
         "备用解析":{
-            "M3U8":"https://jx.m3u8.tv/jiexi/?url="
+            "777一":"https://jx.777jiexi.com/player/?url=",
+            "777二":"https://jx.jsonplayer.com/player/?url=",
+            "LLQ":"https://player.maqq.cn/?url=",
+            "云":"https://jx.aidouer.net/?url=",
+            "盘古":"https://www.pangujiexi.com/pangu/?url=",
+            "8090":"https://www.8090.la/8090/?url=",
+            "M3U8":"https://jx.m3u8.tv/jiexi/?url=",
+            "1717云":"https://www.1717yun.com/1717yun/?url=",
+            "1988":"https://vip.198830.com/?url=",
+            "555":"https://jiexi.555jiexi.net:555/player/?url=",
+            "鸿途":"https://h5.freejson.xyz/player/?url="
 }
     }
 }
